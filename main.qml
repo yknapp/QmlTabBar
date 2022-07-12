@@ -34,7 +34,7 @@ Window {
                 Material.accent: "white"
                 width: implicitWidth
                 icon.source: "qrc:/map.svg"
-                text: "HEADER 1"
+                text: "H 1"
             }
 
             TabButton {
@@ -54,7 +54,7 @@ Window {
                 Material.accent: "white"
                 width: implicitWidth
                 icon.source: "qrc:/map.svg"
-                text: "LONG HEADER 3"
+                text: "HEADER 3"
             }
 
             TabButton {
@@ -74,7 +74,7 @@ Window {
                 Material.accent: "white"
                 width: implicitWidth
                 icon.source: "qrc:/map.svg"
-                text: "VERY VERY LONG HEADER 5"
+                text: "VERY LONG HEADER 5"
             }
 
             TabButton {
@@ -84,7 +84,7 @@ Window {
                 Material.accent: "white"
                 width: implicitWidth
                 icon.source: "qrc:/map.svg"
-                text: "HEADER 6"
+                text: "LONG HEADER 6"
             }
         }
     }
